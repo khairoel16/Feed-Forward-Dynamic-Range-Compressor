@@ -1,0 +1,8 @@
+sep=;
+METRIC;VALUE;UNIT;DESCRIPTION
+MAE;0,0000359023;Amplitude;Mean Absolute Error
+MSE;0,0000000091;Amplitude^2;Mean Squared Error
+RMSE;0,0000954010;Amplitude;Root Mean Squared Error
+SNR;58,8438799996;dB;Signal-to-Noise Ratio
+PSNR;80,4089407550;dB;Peak Signal-to-Noise Ratio
+R2 Score;0,9999986893;-;Coefficient of Determination
