@@ -1,0 +1,7 @@
+sep=;
+CATEGORY;METRIC;INPUT;OUTPUT;DELTA;UNIT;STATUS
+LOUDNESS;Integrated Loudness;-17,91276;-23,05176;-5,13900;LUFS;V Effective Compression (Gain Reduction Applied)
+DYNAMICS;Crest Factor;16,47289;16,04068;-0,43221;dB;V Dynamics Compressed
+DYNAMICS;True Peak;-1,18623;-6,62172;-5,43549;dBTP;V Safe (No Clipping)
+DYNAMICS;RMS Level;-17,65912;-22,66240;-5,00328;dBFS;V Signal Attenuated Correctly
+SYSTEM;HW Execution Time;-;18,03602;-;ms;Accelerated
